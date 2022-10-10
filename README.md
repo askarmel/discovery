@@ -2,13 +2,13 @@
 add interpretability to clustering 
 
 ## Context
-Segmentation through clustering with limited number of features, typically Recency-Frequency-Monetary marketing segmentation
+Segmentation through clustering with limited number of features, for example Recency-Frequency-Monetary marketing segmentation or Memory-CPU-GPU consumption on production monitoring
 
 ## Objectives
-Enable human interpretation / extrapolation of the clusters by adding much more features (demographics, online / offline behaviours, transactional data etc.) and identifying what features matter the most and how.
+Enable human interpretation / extrapolation of the clusters by adding much more features (demographics, online / offline behaviours, transactional data, etc.) and identifying what features matter the most and how.
 
 ## Impact
-Understand why given groups of people are similar from a marketing point of view; Help to build persona
+Understand why given groups of people are similar (share the same cluster); Help to build deep dive profiles and patterns
 
 ## Approach
 
